@@ -13,7 +13,7 @@ Designed with a **luxury sports analytics interface**, the platform combines **d
  ███╔╝  ██║   ██║██║╚██╔╝██║██╔══██╗     ██╔══██║██║
 ███████╗╚██████╔╝██║ ╚═╝ ██║██████╔╝     ██║  ██║██║
 ╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═════╝      ╚═╝  ╚═╝╚═╝
-         IPL ORACLE · POWERED BY ZOMBAI · @balram3429
+                 · POWERED BY ZOMBAI · @balram3429
 ```
 
 ---
